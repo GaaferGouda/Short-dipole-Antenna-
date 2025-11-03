@@ -1,11 +1,10 @@
 # Short Dipole Antenna Radiation Pattern Visualization
 
-> **Author:** Ahmed Khaled Fathy
+> **Author:** Gaafer Mohsen Gouda 
 >
 > **Supervisors:**
 >
 > - Dr. Nur ad-Din M. Salem
-> - Eng. Ehab
 
 This MATLAB project provides comprehensive visualizations of short dipole antenna radiation patterns, demonstrating both E-plane (E*θ) and H-plane (H*φ) patterns in multiple coordinate systems. The project helps understand the characteristic radiation behavior of short dipole antennas through various graphical representations.
 
